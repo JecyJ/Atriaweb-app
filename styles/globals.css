@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Unna:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+html {
+    font-family: 'Unna', serif;
+    scroll-behavior: smooth;
+    background-color: #e7e4df;
+  }
