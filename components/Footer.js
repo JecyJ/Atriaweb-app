@@ -49,7 +49,7 @@ const Footer = () => {
           </ul>
         </div>
         <div className='flex justify-between mt-28 md:mt-44'>
-          <h2 className='text-2xl md:text-4xl max-w-[200px] md:max-w-[450px]'>36 East 57th Street New York, NY 10022</h2>
+          <h2 className='text-2xl md:text-4xl w-full'>36 East 57th <br className='sm:hidden' /> Street New York, <br className='sm:hidden' /> NY 10022</h2>
           <div className='max-w-[300px] md:max-w-[400px] mt-auto'>
             <h2 className='flex items-center text-2xl md:text-3xl px-3'><AiOutlineCopyrightCircle size={20} /> 2023</h2>
           </div>                
