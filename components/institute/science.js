@@ -4,7 +4,7 @@ const Science = () => {
   return (
     <section className="w-full h-auto mt-28 md:mt-60">
       <div className="max-w-[520px] md:max-w-[1250px] w-full m-auto mt-20">
-        <p className="text-[#3c4e3d] text-3xl md:text-7xl font-semibold leading-none"> We determined it would sit at the intersection of medicine and technology, it would be delivered in an environment designed with you in mind, and it would be proactive, dynamic, and human. We believe your care should change and improve along with advances in science.</p>
+        <p className="text-[#3c4e3d] text-3xl lg:text-7xl font-semibold leading-none"> We determined it would sit at the intersection of medicine and technology, it would be delivered in an environment designed with you in mind, and it would be proactive, dynamic, and human. We believe your care should change and improve along with advances in science.</p>
       </div>
       <div className="max-w-[520px] md:max-w-[1250px] w-full m-auto mt-20 text-[#3c4e3d]">
         <div className="md:w-1/2 ml-auto">
