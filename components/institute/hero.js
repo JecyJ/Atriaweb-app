@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const Hero = () => {
   return (
-    <section className='grid content-center pt-72 sm:pt-44 w-full h-screen'>
+    <section className='grid content-center pt-72 sm:pt-28 w-full h-screen'>
       <div className='z-[-2]'>
         <Image src='/assets/images/cone.png' alt='/' fill cover />
       </div>
