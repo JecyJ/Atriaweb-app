@@ -3,7 +3,7 @@ import Hero from "@components/atria/Hero";
 const Atria = () => {
   return (
     <section>
-      {/* <Hero /> */}
+      <Hero />
     </section>
   )
 }
