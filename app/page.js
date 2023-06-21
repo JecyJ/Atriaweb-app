@@ -6,8 +6,8 @@ const Atria = () => {
     <section>
       <Hero />
       <Bgvideo />
-      {/* <Learning /> */}
-      {/* <Mission /> */}
+      <Learning />
+      <Mission />
       {/* <Medicalminds /> */}
       {/* <Institute /> */}
       {/* <Academy /> */}
