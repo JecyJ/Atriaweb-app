@@ -2,7 +2,7 @@
 
 const Hero = () => {
   return (
-    <section className='relative w-full h-screen'>
+    <section className='relative w-full h-auto'>
       <div className=' max-w-[520px] sm:max-w-[620px] md:max-w-[1250px] m-auto pt-48 md:pt-56 h-auto'>
         <h1 className='text-7xl lg:text-9xl text-[#3c4e3d] w-[300px] md:w-[1250px]'>Turning Science</h1>
         <h1 className='md:text-right md:mt-28 text-7xl lg:text-9xl text-[#3c4e3d] w-[300px] md:w-[1250px]'>into Medicine.</h1>
