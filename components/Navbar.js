@@ -15,12 +15,12 @@ const Navbar = () => {
 
 
   return (
-    <section className='fixed top-8 shadow-xl z-[100] w-full mt-6'>
+    <section className='fixed top-8 shadow-xl z-[100] w-full'>
       <div className='flex justify-between items-center md:px-0 max-w-[520px] sm:max-w-[620px] md:max-w-[1200px] m-auto bg-transparent'>
         <Link href='/'>
           <h1 className='text-4xl text-[#3c4e3d] font-semibold'>atria</h1>
         </Link>
-        <ul className='text-[#3c4e3d] text-lg list-disc list-inside hidden md:block'>
+        <ul className='text-[#3c4e3d] text-base list-disc list-inside hidden md:block'>
         <Link href='/atriainstitute'>
           <li>Atria Institute</li>
         </Link>
