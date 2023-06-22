@@ -22,7 +22,7 @@ const Leaders = () => {
 
             <div className='md:grid md:grid-cols-2 relative top-12 max-w-[600px] md:max-w-[1250px] m-auto mt-10 md:mt-0'>
                 <div className='text-[#3c4e3d] h-96 pt-24'>
-                    <Image className=' absolute top-0 left-0 md:left-28 w-2/6 md:w-2/12 h-64 md:h-96' src='/assets/images/woman.png' alt='/' width={200} height={200} />
+                    <Image className=' absolute top-0 left-0 md:left-28 w-2/6 md:w-56 h-64 md:h-96' src='/assets/images/woman.png' alt='/' width={200} height={200} />
                     <Image className=' absolute top-40 right-0 z-[2] md:hidden md:right-28 w-2/6 md:w-2/12 h-48 md:h-2/4' src='/assets/images/man.png' alt='/' width={200} height={200} />
                 </div>
                 <div className="relative text-[#3c4e3d] md:max-w-[650px] m-auto">
