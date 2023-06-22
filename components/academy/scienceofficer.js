@@ -7,7 +7,7 @@ const Scienceofficer = () => {
         <div>
             <ul className='top-12 border-t border-t-[#3c4e3d] border-t-3 max-w-[520px] md:max-w-[1250px] m-auto my-20 text-[#3c4e3d]'>
                 <li className='flex relative text-[#3c4e3d] py-10'><RiDoubleQuotesL size={28}  /><RiDoubleQuotesR size={28}  /></li>
-                <li className='relative md:z-[2] text-[#3c4e3d] text-5xl md:text-7xl font-semibold'>We're asking what is biologically possible, how we can imporve healthspan, and how we can equitably make this available for as many people as possible.</li>
+                <li className='relative md:z-[2] text-[#3c4e3d] text-5xl lg:text-7xl font-semibold'>We're asking what is biologically possible, how we can imporve healthspan, and how we can equitably make this available for as many people as possible.</li>
             </ul>
             <div className='max-w-[520px] md:max-w-[1250px] m-auto text-[#3c4e3d]'>
                 <div className='md:max-w-[650px] ml-auto'>

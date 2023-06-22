@@ -1,11 +1,12 @@
 import Hero from "@components/academy/hero";
+import Scienceofficer from "@components/academy/scienceofficer";
 
 
 const Atriaacademy = () => {
   return (
     <section>
       <Hero />
-      {/* <Scienceofficer /> */}
+      <Scienceofficer />
       {/* <Stones /> */}
       {/* <Scientific /> */}
       {/* <Leaders /> */}
