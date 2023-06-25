@@ -31,7 +31,7 @@ const Introduction = () => {
                         <p className='md:max-w-[1100px]'>
                         For the purposes of this Privacy Policy, “Personal Information” means any information that identifies, relates to, describes, references, is capable of being associated with, or could reasonably be linked, directly or indirectly, with an individual. When you use the Platform, Personal Information may be collected directly from you (for example, when you complete our forms or enter your information on our Platform), automatically as you navigate through the Platform or from third parties such as physicians, medical professionals, and pharmacies with whom we partner to provide you with services. <span className='text-[#3c4e3d]/60'>The Personal Information we collect depends on the context of your interactions with the Platform and the choices you make, the services and features you use, your location, and applicable laws, but can include the following:</span>
                         </p>
-                        <p>ersonal Information You Provide</p>
+                        <p>Personal Information You Provide</p>
                         <ol className='md:max-w-[1100px] list-disc list-inside text-[#3c4e3d]/60 space-y-7'>
                             <li>
                             Registration & Account Information. When you register with Atria, interact with or use the Platform, we collect contact information such as your full name, postal address, e-mail address, telephone number, as well as other personal identifiers you provide, including, but not limited to, your date of birth, social security number, or demographic information such as your gender, occupation, industry, personal interests.
