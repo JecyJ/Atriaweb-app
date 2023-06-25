@@ -4,7 +4,7 @@ const Practice = () => {
   return (
     <section className='w-full h-auto my-20'>
         <div className='max-w-[420px] sm:max-w-[570px] md:max-w-[770px] lg:max-w-[1200px] m-auto'>
-            <ul className='list-[numbers] text-[#3c4e3d] text-lg font-semibold leading-tight space-y-16 sm:space-y-36'>
+            <ul className='list-[numbers] text-[#3c4e3d] text-base font-semibold leading-tight space-y-16 sm:space-y-36'>
                 <li className='w-full border-top border-t-2 border-[#3c4e3d]'>
                   <div className='sm:flex justify-between space-y-7 sm:space-y-0 pt-10 sm:pt-20'>
                     <h3 className='w-full md:max-w-[300px]'>Who We Are</h3>
@@ -19,12 +19,12 @@ const Practice = () => {
                 </li>
                 <li className='w-full border-top border-t-2 border-[#3c4e3d]'>
                   <div className='sm:flex justify-between space-y-7 sm:space-y-0 pt-10 sm:pt-20'>
-                    <h3 className='w-full md:max-w-[300px]'>Permissible Uses and Disclosures Without Your Written Authorisation</h3>
-                    <div className='space-y-10'>
+                    <h3 className='w-full md:max-w-[300px]'>Permissible Uses and Disclosures Without <br /> Your Written Authorisation</h3>
+                    <div className='space-y-7'>
                       <p className='md:max-w-[1100px]'>In certain situations, which we describe in Section IV below, we must obtain your written authorization in order to use and/or disclose your PHI. However, we do not need any type of authorization from you for the following uses and disclosures:</p>
-                      <ul className='list-[upper-roman] text-[#3c4e3d]/60 space-y-10'>
+                      <ul className='list-[upper-roman] text-[#3c4e3d]/60 space-y-7'>
                         <li>Uses and Disclosures For Treatment, Payment and Health Care Operations. We may use and disclose PHI, but not your “Highly Confidential Information” (defined in Section IV.B below), in order to treat you, obtain payment for services provided to you and conduct our “Health Care Operations” as detailed below:</li>
-                        <ol className='space-y-10'>
+                        <ol className='space-y-7'>
                           <li className='list-disc list-inside'>
                           Treatment. We may use and disclose your PHI to provide treatment, for example, to diagnose and treat your injury or illness. We may also disclose PHI to other health care providers involved in your treatment.
                           </li>
@@ -38,7 +38,7 @@ const Practice = () => {
                           We may also disclose PHI to your other health care providers when such PHI is required for them to treat you, receive payment for services they render to you, or conduct certain health care operations, such as quality assessment and improvement activities, reviewing the quality and competence of health care professionals, or for health care fraud and abuse detection or compliance. For a list of other ways that we may use your PHI, you should check the privacy policies or terms of service for our website(s) and application(s).
                           </li>
                         </ol>
-                        <li className='space-y-10'>
+                        <li className='space-y-7'>
                           <p>Disclosure to Relatives, Close Friends and Other Caregivers. We may use or disclose your PHI to a family member, other relative, a close personal friend or any other person identified by you when you are present for, or otherwise available prior to, the disclosure, if we (1) obtain your agreement; (2) provide you with the opportunity to object to the disclosure and you do not object; or (3) reasonably infer that you do not object to the disclosure.</p>
 
                           <p>If you are not present, or the opportunity to agree or object to a use or disclosure cannot practicably be provided because of your incapacity or an emergency circumstance, we may exercise our professional judgment to determine whether a disclosure is in your best interests. If we disclose information to a family member, other relative or a close personal friend, we would disclose only information that we believe is directly relevant to the person's involvement with your health care or payment related to your health care. We may also disclose your PHI in order to notify (or assist in notifying) such persons of your location, general condition, or death.</p>
@@ -69,6 +69,25 @@ const Practice = () => {
                         </li>
                       </ul>
                     </div>                    
+                  </div>                  
+                </li>
+                <li className='w-full border-top border-t-2 border-[#3c4e3d]'>
+                  <div className='sm:flex justify-between space-y-7 sm:space-y-0 pt-10 sm:pt-20'>
+                    <h3 className='w-full md:max-w-[300px]'>Effective Date and Duration of This Notice</h3>
+                    <ol className='list disc list-inside space-y-7'>
+                      <li>
+                      Effective Date. This Notice is effective on May 1, 2022.
+                      </li>
+                      <li>
+                      Right to Change Terms of this Notice. We may change the terms of this Notice at any time. If we change this Notice, we may make the new notice terms effective for all Protected Health Information that we maintain, including any information created or received prior to issuing the new notice. If we change this Notice, we will post the new notice in waiting areas in our facilities and on our website at www.atria.org. You also may obtain any new notice by contacting us.
+                      </li>
+                    </ol>
+                  </div>                  
+                </li>
+                <li className='w-full border-top border-t-2 border-[#3c4e3d]'>
+                  <div className='sm:flex justify-between space-y-7 sm:space-y-0 pt-10 sm:pt-20'>
+                    <h3 className='w-full md:max-w-[300px]'>Contact</h3>
+                    <p className='md:max-w-[1100px]'>You may contact Nafisa Osman at 212-600-2000 with any questions, comments or complaints related to this Notice.</p>
                   </div>                  
                 </li>
             </ul>
