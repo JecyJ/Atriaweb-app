@@ -1,8 +1,11 @@
+import Hero from "@components/policy/Hero";
 
 
 const PrivacyPolicy = () => {
   return (
-    <div>PrivacyPolicy</div>
+    <section>
+      <Hero />
+    </section>
   )
 }
 
