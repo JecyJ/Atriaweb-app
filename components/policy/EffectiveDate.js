@@ -17,4 +17,4 @@ const EffectiveDate = () => {
   )
 }
 
-export default EffectiveDate;2
+export default EffectiveDate;

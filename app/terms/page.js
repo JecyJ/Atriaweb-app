@@ -1,8 +1,13 @@
-import React from 'react'
+import Arbitration from "@components/conditions/Arbitration";
+import Hero from "@components/conditions/Hero";
+
 
 const Terms = () => {
   return (
-    <div>Terms</div>
+    <section>
+      <Hero />
+      <Arbitration />
+    </section>
   )
 }
 
