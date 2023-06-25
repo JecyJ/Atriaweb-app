@@ -3,7 +3,7 @@ import React from 'react'
 const Practice = () => {
   return (
     <section className='w-full h-auto my-20'>
-        <div className='max-w-[380px] sm:max-w-[570px] md:max-w-[770px] lg:max-w-[1200px] m-auto'>
+        <div className='max-w-[370px] sm:max-w-[570px] md:max-w-[770px] lg:max-w-[1200px] m-auto'>
             <ul className='list-[numbers] text-[#3c4e3d] text-base font-semibold leading-tight space-y-16 sm:space-y-36'>
                 <li className='w-full border-top border-t-2 border-[#3c4e3d]'>
                   <div className='sm:flex justify-between space-y-7 sm:space-y-0 pt-10 sm:pt-20'>
