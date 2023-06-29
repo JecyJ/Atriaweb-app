@@ -120,7 +120,7 @@ const Navbar = () => {
                 <Link href="/">
                   <h1
                     onClick={() => {
-                      setIsAtriaPage(false);
+                      setIsAtriaPage(true);
                       handleNav();
                     }}
                     className={`text-4xl font-semibold ${
